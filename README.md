@@ -1,9 +1,16 @@
-[README (1).md](https://github.com/user-attachments/files/24682557/README.1.md)
+[README.md](https://github.com/user-attachments/files/24682557/README.1.md)
 # AI Auto Job Search 🚀
 
 In the world of AI multi-agent systems, where massive transformations are taking place, it's crucial that we automate repetitive and redundant tasks.
 
 Searching for jobs shouldn't be a daily routine anymore, especially now that AI agents can handle such tasks while we focus on more meaningful and strategic work.
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/63627bbf-8424-4975-99d9-0676ce80b9b6",
+    height=450px,
+    width=720px>
+</p>
 
 What amazes me most is how these agents go beyond task execution—they **think**, **collaborate**, **delegate**, conduct **deep research**, and even handle errors gracefully.
 
