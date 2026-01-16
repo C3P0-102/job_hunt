@@ -1,0 +1,29 @@
+[
+    {
+        "job_title": "Full Stack Developer-ASP.net + Angular",
+        "company": "Harp", 
+        "hybrid_location": "Various locations",
+        "description": "We are seeking a skilled and motivated Full Stack Developer proficient in ASP.NET, Angular, and Azureto join our development team.",
+        "hr_contact": "LinkedIn: https://in.linkedin.com/jobs/view/full-stack-developer-asp-net-%2B-angular-full-time-at-a-fortune-500-tech-mnc-at-harp-4339763048",
+        "application_link": "https://in.linkedin.com/jobs/view/full-stack-developer-asp-net-%2B-angular-full-time-at-a-fortune-500-tech-mnc-at-harp-4339763048"
+    },
+    {
+        "job_title": "Full Stack Developer",
+        "company": "MNC - Working with Fortune 500 Clients",
+        "hybrid_location": "Ahmedabad",
+        "description": "MERN Stack / Full Stack Developer (Fresher Can Apply).",
+        "hr_contact": "N/A",
+        "application_link": "https://www.naukri.com/fresher-full-stack-developer-jobs-in-indi"
+    },
+    {
+        "job_title": "Lead Java Full stack with Angular",
+        "company": "FIS",
+        "hybrid_location": "Pune/Bangalore",
+        "description": "Seeking a talented developer with 7+ years of experience in Java and Angular to tackle innovative challenges in financial technology.",
+        "hr_contact": "N/A",
+        "application_link": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0299816EXTERNAL/Lead-Java-Full-stack-with-Angular-10-Years-Pune-Bangalore"
+    }
+]
+``` 
+
+This JSON output provides the relevant job postings retrieved from the searches, including job titles, companies, descriptions, and application links to facilitate direct applications.
