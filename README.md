@@ -8,8 +8,8 @@ Searching for jobs shouldn't be a daily routine anymore, especially now that AI 
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/63627bbf-8424-4975-99d9-0676ce80b9b6",
-    height=450px,
-    width=720px>
+    height=550px,
+    width=500px>
 </p>
 
 What amazes me most is how these agents go beyond task execution—they **think**, **collaborate**, **delegate**, conduct **deep research**, and even handle errors gracefully.
